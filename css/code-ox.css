@@ -1,9 +1,19 @@
 .logo-code-ox {
     width: 120px;
 }
+
 .nav-code-ox {
-    color:#000;
+    color: #000;
 }
+
 .services-img {
     width: 80px;
+}
+
+@media (max-width: 991px) {
+    .img-phone {
+        width: 50%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
 }
