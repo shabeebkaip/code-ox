@@ -16,4 +16,15 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
+
+    .offcet-art-phone {
+        display: none;
+    }
+
+    .offcet-art-dark {
+        background: rgba(0, 0, 0, 0.0);
+    }
+    .offcet-art-dark-phone {
+        color:#777777;
+    }
 }
