@@ -455,15 +455,12 @@ a .fa, a .icon {
 }
 
 .classic {
-  font-family: "Gloria Hallelujah";
-  font-weight: normal !important;
+  font-family: "Proxima Nova", sans-serif;
+  font-weight: bold !important;
   letter-spacing: 0;
-  transform: rotate(-3deg) !important;
-  -moz-transform: rotate(-3deg) !important;
-  -webkit-transform: rotate(-3deg) !important;
   text-transform: none;
   display: inline-block;
-  font-size: 22px;
+  font-size: 21px;
   padding: 5px;
 }
 
