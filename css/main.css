@@ -2937,6 +2937,7 @@ nav.nav-demo {
   width: 60%;
   text-align: left;
   border-radius: 4px;
+  height: auto;
 }
 .offcet-art .text-right, .offcet-art-right .text-right, .offcet-art-dark .text-right {
   display: block;

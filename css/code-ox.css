@@ -9,7 +9,16 @@
 .services-img {
     width: 80px;
 }
-
+@media (max-height: 812px) {
+    .code-ox-height {
+        height: 700px;
+    }
+} 
+@media (max-height: 712px)  {
+    .code-ox-height {
+        height: 500px;
+    }
+}
 @media (max-width: 991px) {
     .img-phone {
         width: 50%;
@@ -27,4 +36,5 @@
     .offcet-art-dark-phone {
         color:#777777;
     }
+
 }
