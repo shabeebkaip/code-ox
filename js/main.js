@@ -13,8 +13,8 @@
          ***********************************************/
 
         jQuery(window).load(function () {
-            jQuery("#status").fadeOut();
-            jQuery("#preloader").delay(10).fadeOut("slow");
+            jQuery("#status-code-ox").fadeOut();
+            jQuery("#preloader-code-ox").delay(10).fadeOut("slow");
         });
 
         /***********************************************
