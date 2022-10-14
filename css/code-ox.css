@@ -23,7 +23,7 @@
 }
 @media (max-height: 812px) {
     .code-ox-height {
-        height: 700px;
+        height: 500px;
     }
     .img-code-ox-responsive {
         max-width: 75%;
